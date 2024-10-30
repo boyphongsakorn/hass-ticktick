@@ -2,12 +2,12 @@
   "domain": "ticktick",
   "name": "TickTick",
   "config_flow": true,
-  "documentation": "https://github.com/BeryJu/hass-ticktick",
+  "documentation": "https://github.com/boyphongsakorn/hass-ticktick",
   "requirements": ["requests<3.0.0"],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
   "dependencies": [],
-  "codeowners": ["@BeryJu"],
+  "codeowners": ["@BeryJu","@BoyPhongsakorn"],
   "version": "1.2"
 }
